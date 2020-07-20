@@ -1,8 +1,5 @@
-RAPP: Empowering robotics for social inclusion
+Asobo: Let's Play
 ====================
-Github io page: https://rapp-project.github.io/
+Github io page: https://raineha68.github.io/asobo/
 
 
-###Project Website
-
-http://rapp-project.eu/
